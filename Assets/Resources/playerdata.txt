@@ -1,0 +1,1 @@
+{"m_turnrate":0.019999999552965165,"m_firerate":0.05,"m_speed":80,"m_xp":0,"m_level":1,"m_unlocktokencount":0}
